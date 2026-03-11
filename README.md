@@ -1,10 +1,12 @@
- A fully responsive **Amazon Clone** built using pure HTML & CSS to replicate the core UI experience.
- Designed with attention to layout, spacing, and typography for a pixel-perfect look.
- Includes a structured **navbar**, **product sections**, **banners**, and **footer** just like the real Amazon site.
- Responsive design ensures smooth viewing across desktop and mobile screens.
- Modern CSS techniques like Flexbox and Grid for clean and scalable layouts.
- Lightweight and fast—no frameworks, no libraries, just core web fundamentals.
- Product cards styled to resemble real e-commerce listings.
- Ideal project for practicing front-end fundamentals and UI cloning skills.
- Beginner-friendly code with clear structure and reusable CSS classes.
- A solid foundation to extend into JavaScript, React, or full-stack development.
+##AMAZON UI CLONE:
+This project is a simple clone of the Amazon homepage UI built using HTML and CSS. The goal of this project was to practice front-end development fundamentals like layout design, styling, and structuring web pages similar to real-world websites.
+
+Instead of focusing on backend functionality, this project mainly recreates the visual layout and design of Amazon’s landing page.
+
+While learning HTML and CSS, I tried recreating the interface of a popular website to understand how professional layouts are structured. Amazon’s homepage has many different sections like navigation bars, product grids, banners, and footers, which makes it a good practice project.
+
+This clone includes the basic structure of the homepage.
+##Technologies Used:
+
+HTML5 – for creating the structure of the webpage
+CSS3 – for styling and layout design
