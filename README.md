@@ -1,4 +1,4 @@
-##AMAZON UI CLONE:
+##AMAZON_UI_CLONE:
 This project is a simple clone of the Amazon homepage UI built using HTML and CSS. The goal of this project was to practice front-end development fundamentals like layout design, styling, and structuring web pages similar to real-world websites.
 
 Instead of focusing on backend functionality, this project mainly recreates the visual layout and design of Amazon’s landing page.
