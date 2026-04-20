@@ -1,5 +1,7 @@
 ##AMAZON_UI_CLONE:
 
+## 🌐 Live Demo
+https://amazonwebuiclone.netlify.app
 
 This project is a simple clone of the Amazon homepage UI built using HTML and CSS. The goal of this project was to practice front-end development fundamentals like layout design, styling, and structuring web pages similar to real-world websites.
 
