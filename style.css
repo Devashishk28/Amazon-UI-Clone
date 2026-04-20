@@ -16,10 +16,11 @@
 .nav-logo{
     height:50px;
     width:100px;
-    padding:5px 0px 0px 0px}
+    padding:5px 0px 0px 0px
+}
     
 .logo{
-    background-image: url("amazon_logo.png");
+background-image: url("./images/amazon_logo.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -130,7 +131,7 @@ span{
 
 /* hero section*/
 .hero-section{
-    background-image: url("img1.jpg");
+    background-image: url("images/img1.jpg");
     height:350px;
     background-size:cover;
     display:flex;
@@ -234,7 +235,7 @@ ul a{
 }
 
 .logo{
-    background-image: url("amazon_logo.png");
+    background-image: url("images/amazon_logo.png");
     background-size: contain;
     height:50px;
     width:100px;}
